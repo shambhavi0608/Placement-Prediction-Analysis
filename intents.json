@@ -1,0 +1,15 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey"],
+      "responses": ["Hello! How can I assist you with placements?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you", "Goodbye"],
+      "responses": ["Good luck with your placements!"]
+    }
+  ]
+  
+}
