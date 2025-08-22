@@ -81,31 +81,26 @@ graph TB
 
 ---
 
-## 🎬 Live System Showcase
-
 ### 📱 **Complete User Journey**
 
 <div align="center">
 
-| 📊 Analytics Dashboard | 🏢 Department Overview | 📋 Placement Records |
+| 📊 Analytics Dashboard | 📋 Placement Records | 🏢 Department Overview |
 |----------------------|----------------------|-------------------|
-| ![Dashboard](https://i.imgur.com/dashboard.png) | ![Department](https://i.imgur.com/dept.png) | ![Records](https://i.imgur.com/records.png) |
+|![WhatsApp Image 2025-08-22 at 03 12 43_07f06508](https://github.com/user-attachments/assets/302d9740-f3fb-4566-8baa-bd030c824a8b)
+| ![Department](https://i.imgur.com/dept.png) |![WhatsApp Image 2025-08-22 at 03 18 30_f6dd6b0e](https://github.com/user-attachments/assets/11bebf07-2eda-461c-a94a-44a8c693647a)
+ | ![WhatsApp Image 2025-08-22 at 03 17 46_6fa08dcd](https://github.com/user-attachments/assets/02d3548b-e63f-499b-bb3d-438375fe0dc5)
+
 | *Real-time placement metrics with 80% rate visualization* | *Complete department management with 90% placement rate* | *Detailed company-wise placement tracking* |
 
-| 🔮 Prediction Engine | 🎯 Skill Assessment | 👥 Student Database |
-|-------------------|------------------|-------------------|
-| ![Prediction](https://i.imgur.com/predict.png) | ![Skills](https://i.imgur.com/skills.png) | ![Database](https://i.imgur.com/database.png) |
-| *AI-powered placement probability with personalized insights* | *Comprehensive technical skills evaluation* | *Complete student management with placement status* |
 
-| 💬 AI Assistant | 🤖 Intelligent Chat | 📈 Success Analytics |
+| 💬 AI Assistant |
 |---------------|------------------|-------------------|
-| ![Assistant](https://i.imgur.com/assistant.png) | ![Chat](https://i.imgur.com/chat.png) | ![Analytics](https://i.imgur.com/analytics.png) |
+|![WhatsApp Image 2025-08-22 at 03 16 29_ab632d65](https://github.com/user-attachments/assets/7a494193-9f04-4304-9c53-a49fbed08032)
+|
 | *24/7 placement guidance and career counseling* | *Smart responses about packages, companies & requirements* | *Success rate tracking and improvement insights* |
 
 </div>
-
-### 🎥 **Live Demo Video (4 minutes)**
-> 🎦 **[Watch Full System Demo](demo-video-link)** - See PlacementPro transforming campus placements!
 
 **Demo Highlights:**
 - ⚡ Lightning-fast placement predictions
@@ -116,22 +111,6 @@ graph TB
 
 ---
 
-## 🛠️ Advanced Tech Stack
-
-<div align="center">
-
-| Layer | Technology | Purpose | Performance |
-|-------|------------|---------|-------------|
-| **🧠 AI/ML Core** | Python, Scikit-learn, TensorFlow | Placement prediction engine | 90%+ accuracy |
-| **⚡ Backend** | FastAPI, SQLAlchemy, PostgreSQL | High-performance API & data management | <500ms response |
-| **🎨 Frontend** | Streamlit, React, Tailwind CSS | Beautiful, responsive user interface | Mobile-optimized |
-| **💬 AI Assistant** | OpenAI GPT, Natural Language Processing | Intelligent conversation & guidance | Real-time responses |
-| **📊 Analytics** | Plotly, D3.js, Custom Dashboards | Interactive data visualization | Live updates |
-| **☁️ Deployment** | Docker, AWS/Azure, CI/CD Pipeline | Scalable cloud infrastructure | 99.9% uptime |
-
-</div>
-
----
 
 ## 🎯 Revolutionary Features Deep Dive
 
@@ -146,13 +125,7 @@ graph TB
 - **Company Performance**: Success rates by recruiter
 - **Student Progress**: Individual journey tracking
 - **Trend Analysis**: Historical data and future projections
-
-### 💬 **Intelligent AI Assistant**
-- **24/7 Availability**: Round-the-clock student support
-- **Context-Aware**: Understands placement queries and provides relevant answers
-- **Multi-Lingual**: Support for regional languages
-- **Learning Capability**: Improves responses based on interactions
-
+  
 ### 🎯 **Smart Matching Algorithm**
 - **Skill-Based Matching**: Connects students with relevant opportunities
 - **Company Preferences**: Matches based on recruiter requirements  
@@ -168,22 +141,7 @@ graph TB
 - **₹45L+ Maximum Package** - Record-breaking offers
 - **Personalized Guidance** - 100% students receive custom roadmaps
 - **Skill Development** - Targeted improvement recommendations
-
-### 🏢 **For Companies** 
-- **60% Faster Screening** - Automated candidate evaluation
-- **Higher Success Rate** - Better candidate-role matching
-- **Data-Driven Hiring** - Analytics-backed decisions
-- **Quality Assurance** - Pre-vetted candidate pipeline
-
-### 🎓 **For Institutions**
-- **Real-Time Insights** - Live placement monitoring
-- **Curriculum Optimization** - Data-driven course updates
-- **Reputation Enhancement** - Improved placement statistics  
-- **Resource Optimization** - Efficient placement cell operations
-
 ---
-
-## 🚀 Future Roadmap & Innovation Pipeline
 
 ### 🎯 **Phase 2: Advanced Intelligence (Next 3 Months)**
 - [ ] **Resume AI Scanner** - Automated resume analysis and optimization
@@ -247,6 +205,7 @@ docker run -p 8501:8501 placementpro
 </div>
 
 ---
+
 
 
 
