@@ -1,22 +1,7 @@
 # 🚀 PlacementPro - AI-Powered Campus Placement System
-## BotVerse 2025 Hackathon - Championship Project
+## BotVerse 2025 Hackathon 
 
-<div align="center">
 
-![Project Banner](https://img.shields.io/badge/BotVerse%202025-CHAMPION-gold?style=for-the-badge&logo=trophy)
-![AI Powered](https://img.shields.io/badge/AI%20Powered-Placement%20Intelligence-blue?style=for-the-badge&logo=brain)
-![Live System](https://img.shields.io/badge/Live%20System-Ready%20to%20Deploy-green?style=for-the-badge&logo=rocket)
-
-**🎯 Transforming Campus Placements with Intelligence & Automation**
-
-*From Uncertainty to Success - One Prediction at a Time*
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Try%20Now-brightgreen?style=for-the-badge)](your-demo-link)
-[![Watch Demo](https://img.shields.io/badge/🎬%20Demo%20Video-Watch%20Now-red?style=for-the-badge)](your-video-link)
-
-</div>
-
----
 
 ## 🌟 Revolutionary System Overview
 
@@ -197,6 +182,7 @@ docker run -p 8501:8501 placementpro
 [![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/shambhavi0608)
 
 ---
+
 
 
 
