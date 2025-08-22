@@ -194,16 +194,15 @@ docker run -p 8501:8501 placementpro
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Team%20Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge&logo=github)](your-github)  
-[![Demo](https://img.shields.io/badge/Live%20Demo-Try%20PlacementPro-green?style=for-the-badge&logo=streamlit)](your-demo)
-[![Email](https://img.shields.io/badge/Email-Business%20Inquiry-red?style=for-the-badge&logo=gmail)](mailto:team@placementpro.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Team%20Connect-blue?style=for-the-badge&logo=linkedin)][(https://www.linkedin.com/in/shambhavi-trivedi0608/)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge&logo=github)][(https://github.com/shambhavi0608) ]
 
-**📱 Contact**: +91-XXXXX-XXXXX | **🌐 Website**: www.placementpro.ai
+
 
 </div>
 
 ---
+
 
 
 
