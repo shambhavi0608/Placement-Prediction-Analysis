@@ -190,17 +190,14 @@ docker run -p 8501:8501 placementpro
 
 ---
 
-## 📞 Connect With Us
-
-<div align="center">
+## 📞 Connect With Us  
+<div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Team%20Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shambhavi-trivedi0608/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/shambhavi0608)
-
-
-
 </div>
 
 ---
+
 
 
 
