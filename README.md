@@ -88,7 +88,7 @@ graph TB
 | 📊 Analytics Dashboard | 📋 Placement Records | 🏢 Department Overview |
 |----------------------|----------------------|-------------------|
 |![WhatsApp Image 2025-08-22 at 03 12 43_07f06508](https://github.com/user-attachments/assets/302d9740-f3fb-4566-8baa-bd030c824a8b)
-| ![Department](https://i.imgur.com/dept.png) |![WhatsApp Image 2025-08-22 at 03 18 30_f6dd6b0e](https://github.com/user-attachments/assets/11bebf07-2eda-461c-a94a-44a8c693647a)
+|![WhatsApp Image 2025-08-22 at 03 18 30_f6dd6b0e](https://github.com/user-attachments/assets/11bebf07-2eda-461c-a94a-44a8c693647a)
  | ![WhatsApp Image 2025-08-22 at 03 17 46_6fa08dcd](https://github.com/user-attachments/assets/02d3548b-e63f-499b-bb3d-438375fe0dc5)
 
 | *Real-time placement metrics with 80% rate visualization* | *Complete department management with 90% placement rate* | *Detailed company-wise placement tracking* |
@@ -205,6 +205,7 @@ docker run -p 8501:8501 placementpro
 </div>
 
 ---
+
 
 
 
